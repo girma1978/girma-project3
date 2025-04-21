@@ -24,6 +24,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@vitejs/plugin-react": "^4.4.1",
     "concurrently": "^8.2.2",
     "wait-on": "^7.2.0"
   }
